@@ -8,7 +8,7 @@ RUS:
 3. Скопировать лицензию из файла .txt который находится в данном рипозитории
 4. После изменений нажать на зеленую кнопку справа-вверху и поддтвердить еще раз нажав на зеленую кнопку в выскочившем окне.
 
-Прияного использования(Внимание!!! Перед использованием анимательно прочитайте условия лицензии)
+Прияного использования(Внимание!!! Перед использованием внимательно прочитайте условия лицензии)
 
 ENG:
 Hello everyone, I created my own license and it can be used by anyone who is confident in the security of their product, whoever wants and will use it can find it in releases in the form of a .txt file or a regular LICENSE file, changing it in your own way is naturally prohibited, nice use
