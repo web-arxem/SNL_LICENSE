@@ -1,23 +1,35 @@
-RUS:
-Всем Привет, я создал собственную лицензию и ее может использовать любой, кто уверен в защищенности своего продукта, кто хочет и будет ее использовать может найти ее в релизах в виде .txt файла или обычного LICENSE файла, изменять ее под свой лад естественно запещено, приятного использования
+![logo](https://github.com/web-arxem/SNL_LICENSE/assets/73872832/ef17e105-92df-4ba8-94dd-8bfe2b0b5a5f)
 
-Инструкция по замнене лицензии на нашем любимом GitHub:
+
+
+RUS:
+Всем привет с великой радостью могу вам представить лицензию собственной разработки под названием "SNL_LICENSE".
+Её может ипользовать каждый желающий, но по правилам лицензии
+1. Нельзя изменять лицензию под свой лад
+2. Нельзя выпускать вирусы под данной лицензией
+
+
+Вы наверное меня спросите - " А <del>нахуя</del> зачем ты это сделал?", я отвечу -"Как для собственного интереса, так и для вас, и для нашего любимого GitHub'а".
+
+возможно кто то даже спросит - "Как установить твою лицензию в мой проект?", все просто, надо следовать инструкции ниже 
 
 1. Надо перейти во вкладку "Лицензия" ->![Снимок экрана (33)](https://github.com/web-arxem/SNL_LICENSE/assets/73872832/95e0a086-29ac-4b34-bcec-86cfe90286df)
 2. Нажать на иконку карандаша для изменения ->![Снимок экрана (34)](https://github.com/web-arxem/SNL_LICENSE/assets/73872832/d6ba215b-3592-4425-a551-7f47b87e46c7)
 3. Скопировать лицензию из файла .txt который находится в данном рипозитории
 4. После изменений нажать на зеленую кнопку справа-вверху и поддтвердить еще раз нажав на зеленую кнопку в выскочившем окне.
 
-Прияного использования(Внимание!!! Перед использованием внимательно прочитайте условия лицензии)
-
 ENG:
-Hello everyone, I created my own license and it can be used by anyone who is confident in the security of their product, whoever wants and will use it can find it in releases in the form of a .txt file or a regular LICENSE file, changing it in your own way is naturally prohibited, nice use
+Hello everyone, with great pleasure I can present to you a license of my own development called "SNL_LICENSE".
+Anyone can use it, but according to the license rules
+1. You cannot change the license to suit your own needs.
+2. You cannot release viruses under this license.
 
-Instructions for replacing the license on our beloved GitHub:
+
+You will probably ask me - “Why the hell did you do this?”, I will answer - “Both for my own interest, and for you, and for our beloved GitHub.”
+
+maybe someone will even ask - “How to install your license in my project?”, it’s simple, you need to follow the instructions below
 
 1. You need to go to the "License" tab ->![Screenshot (33)](https://github.com/web-arxem/SNL_LICENSE/assets/73872832/95e0a086-29ac-4b34-bcec-86cfe90286df)
 2. Click on the pencil icon to change ->![Screenshot (34)](https://github.com/web-arxem/SNL_LICENSE/assets/73872832/d6ba215b-3592-4425-a551-7f47b87e46c7)
 3. Copy the license from the .txt file located in this repository
 4. After the changes, click on the green button at the top right and confirm again by clicking on the green button in the window that pops up.
-
-Enjoy your use (Attention!!! Before using, carefully read the license terms)
